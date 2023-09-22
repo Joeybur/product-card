@@ -45,7 +45,7 @@ body {
 }
 
 .hero-img {
-  background: linear-gradient(rgba(0, 0, 0, 0.075), rgba(0, 0, 0, 0.075)),
+  background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
     url(images/image-product-mobile.jpg);
   background-size: cover;
   width: 325px;
@@ -124,7 +124,7 @@ body {
   }
 
   .text-section {
-    padding: 1.8rem;
+    padding: 1.85rem;
   }
 
   .text-section .intro {
@@ -148,7 +148,7 @@ body {
   }
 
   .hero-img {
-    background: linear-gradient(rgba(0, 0, 0, 0.075), rgba(0, 0, 0, 0.075)),
+    background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
       url(images/image-product-desktop.jpg);
     background-size: cover;
     width: 300px;
